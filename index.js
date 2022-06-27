@@ -142,7 +142,7 @@ module.exports = {
         "scss/at-if-closing-brace-newline-after": null,
         "scss/at-if-closing-brace-space-after": null,
         "scss/at-if-no-null": null,
-        "scss/at-mixin-argumentless-call-parentheses": "always",
+        "scss/at-mixin-argumentless-call-parentheses": "never",
         "scss/at-mixin-pattern": null,
         "scss/at-rule-conditional-no-parentheses": null,
         "scss/comment-no-empty": null,
