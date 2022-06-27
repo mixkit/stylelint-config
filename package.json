@@ -1,43 +1,43 @@
 {
-    "name": "@mixkit/stylelint-config",
-    "version": "1.0.0-alpha.1",
-    "description": "Default stylelint configuration for Mixkit.",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/mixkit/stylelint-config.git"
-    },
-    "keywords": [
-        "stylelint",
-        "stylelint-config",
-        "mixkit",
-        "css",
-        "scss"
-    ],
-    "author": "Mixkit",
-    "license": "MIT",
-    "homepage": "https://github.com/mixkit/stylelint-config#readme",
-    "bugs": {
-        "url": "https://github.com/mixkit/stylelint-config/issues"
-    },
-    "dependencies": {
-        "postcss-scss": "^4.0.4",
-        "stylelint-config-idiomatic-order": "^8.1.0",
-        "stylelint-config-prettier": "^9.0.3",
-        "stylelint-config-standard": "^26.0.0",
-        "stylelint-config-standard-scss": "^4.0.0",
-        "stylelint-order": "^5.0.0",
-        "stylelint-scss": "^4.2.0"
-    },
-    "devDependencies": {
-        "eslint": "^8.18.0",
-        "eslint-config-airbnb-base": "^15.0.0",
-        "eslint-plugin-import": "^2.26.0",
-        "prettier": "^2.7.1",
-        "stylelint": "^14.9.0"
-    },
-    "scripts": {},
-    "main": "index.js",
-    "files": [
-        "index.js"
-    ]
+  "name": "@mixkit/stylelint-config",
+  "version": "1.0.0-alpha.2",
+  "description": "Default stylelint configuration for Mixkit.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixkit/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "mixkit",
+    "css",
+    "scss"
+  ],
+  "author": "Mixkit",
+  "license": "MIT",
+  "homepage": "https://github.com/mixkit/stylelint-config#readme",
+  "bugs": {
+    "url": "https://github.com/mixkit/stylelint-config/issues"
+  },
+  "dependencies": {
+    "postcss-scss": "^4.0.4",
+    "stylelint-config-idiomatic-order": "^8.1.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^26.0.0",
+    "stylelint-config-standard-scss": "^4.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "^2.7.1",
+    "stylelint": "^14.9.0"
+  },
+  "scripts": {},
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ]
 }
